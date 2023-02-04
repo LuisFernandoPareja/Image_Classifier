@@ -42,7 +42,7 @@ Data file structure:
 
     - See below for details
 
-<img src="resources/inference_example.png" width=300>
+<img src="assets/inference_example.png" width=300>
 
 ## 4. How to run the command line application
 
